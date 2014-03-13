@@ -1,13 +1,10 @@
 
 
+/*
+this function can calculate a distance in two points and unit measure
 
 
-
-
-
-
-
-
+*/
 
 function distance(lat1, lon1, lat2, lon2, unit) {
 
